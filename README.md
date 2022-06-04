@@ -3,10 +3,10 @@
 <a href="https://github.com/Resaw-git">
   <img align="right" src="https://komarev.com/ghpvc/?username=Resaw-git" />
 </a>
-<a href="https://t.me/atw_Resaw">
+<a href="https://t.me/atw_Resaw" target="_blank">
   <img align="right" alt="Resaw's Telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg"/>
 </a>
-<a href="https://discordapp.com/users/410744319243190272">
+<a href="https://discordapp.com/users/410744319243190272" target="_blank">
   <img align="right" alt="Resaw's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
@@ -16,9 +16,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=github_dark&layout=compact)](https://wakatime.com/@Resaw)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true)
+
 
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Resaw-git&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></p>
