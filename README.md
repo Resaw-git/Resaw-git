@@ -5,10 +5,10 @@
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=midnight-purple)](https://github.com/Resaw-git)
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=midnight-purple&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Resaw-git&theme=midnight-purple&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Resaw-git&theme=midnight-purple)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Resaw-git/Resaw-git/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Resaw-git/Resaw-git/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Resaw-git&theme=darkhub&no-bg=true&no-frame=true)
