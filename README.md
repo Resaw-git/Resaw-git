@@ -3,7 +3,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/atw_Resaw)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=midnight-purple&show_icons=true)](https://github.com/Resaw-git)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=midnight-purple)](https://github.com/Resaw-git)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=midnight-purple&show_icons=true&count_private=true)
