@@ -3,10 +3,10 @@
 <a href="https://github.com/Resaw-git">
   <img align="right" src="https://komarev.com/ghpvc/?username=Resaw-git" />
 </a>
-<a href="https://t.me/atw_Resaw" target="_blank">
+<a href="https://t.me/atw_Resaw">
   <img align="right" alt="Resaw's Telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg"/>
 </a>
-<a href="https://discordapp.com/users/410744319243190272" target="_blank">
+<a href="https://discordapp.com/users/410744319243190272">
   <img align="right" alt="Resaw's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
