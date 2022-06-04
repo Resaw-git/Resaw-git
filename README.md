@@ -19,6 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Resaw-git&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></p>
+
 <p align="center" href="https://github.com/Resaw-git">
   <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
 </p>
@@ -27,7 +29,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=github_dark" />
 </p>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Resaw-git&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></p>
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Resaw-git&theme=darkhub&no-bg=true&no-frame=true"></p>
 
 ![github contribution grid snake animation](https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
