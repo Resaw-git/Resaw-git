@@ -25,9 +25,9 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
 </p>
 
-<p align="center" href="https://wakatime.com/@Resaw">
+<a align="center" href="https://wakatime.com/@Resaw">
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=github_dark" />
-</p>
+</a>
 
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Resaw-git&theme=darkhub&no-bg=true&no-frame=true"></p>
