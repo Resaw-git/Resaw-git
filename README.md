@@ -1,23 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20there!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```Javascript
-const Person = {
- name: "Gennady"
- spec: "Frontend Developer"
- 
- languages: ["Javascript", "Typescript", "React"] 
- 
-}
-```
-
-<a href="https://wakatime.com/@Resaw">
-  <img align="right" src="https://wakatime.com/badge/user/cf66488a-73c3-4032-ab15-c6e8cd6e7780.svg" />
-</a>
-<a href="https://github.com/Resaw-git">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Resaw-git" />
-</a>
 
 
 ## My stack  
@@ -35,23 +17,14 @@ const Person = {
 </a>
 :arrow_left: the icons are clickable
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Resaw-git&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</p>
-
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <a align="center" href="https://wakatime.com/@Resaw">
+## My statistic<a href="https://wakatime.com/@Resaw">
+ <img src="https://komarev.com/ghpvc/?username=Resaw-git" /> <img src="https://wakatime.com/badge/user/cf66488a-73c3-4032-ab15-c6e8cd6e7780.svg" />
+</a>
+<p>
+   <a align="center" href="https://wakatime.com/@Resaw">
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=github_dark" />
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Resaw-git&theme=darkhub&no-bg=true&no-frame=true">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
 </p>
 
 ![github contribution grid snake animation](https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
