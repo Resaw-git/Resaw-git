@@ -27,14 +27,16 @@
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></a>
+<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"></a>
+<a target="_blank"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></a>
+<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
+<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></a>
+<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
+<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></a>
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></a>
 <a target="_blank"><img height="40" src="https://camo.githubusercontent.com/2be62e3ada685dd9b4fe333d8e0b424f4e8d8b5bed126edaf86eb73afd27fce8/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667">
 <a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>
@@ -71,6 +73,10 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
 </p>
 
-![github contribution grid snake animation](https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Resaw-git/Resaw-git/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
