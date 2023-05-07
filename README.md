@@ -68,9 +68,17 @@
 </h1> 
 <p align="center">
    <a  href="https://wakatime.com/@Resaw">
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw&theme=github_dark" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git" />
+        <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git" />
+      </picture>
   </a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Resaw-git&show_icons=true&count_private=true" />
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Resaw-git" />
+  </picture>
 </p>
 
 
