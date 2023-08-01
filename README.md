@@ -54,7 +54,7 @@
   
   
 <a href="https://discordapp.com/users/410744319243190272">
-  <img alt="Resaw's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Resaw's Discord" width="40px" src="https://www.svgrepo.com/show/331368/discord-v2.svg" />
 </a>
   
   <a href="mailto:resavv@gmail.com">
@@ -67,13 +67,6 @@
   My statistic
 </h1> 
 <p align="center">
-   <a  href="https://wakatime.com/@Resaw">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git" />
-        <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Resaw-git" />
-      </picture>
-  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Resaw-git&theme=github_dark&show_icons=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Resaw-git&show_icons=true&count_private=true" />
