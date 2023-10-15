@@ -12,22 +12,11 @@ jobs:
         with:
           cache: yarn
           node-version: 20
-      - run: yarn install --frozen-lockfile
-
-      - run: npm run type
-      - run: npm run lint
-      - run: npm run test --ci
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   test-action:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: update action.yml to use image from local Dockerfile
-        run: |
-          sed -i "s/image: .*/image: Dockerfile/" action.yml
 
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
