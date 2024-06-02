@@ -3,7 +3,7 @@
   About Me
 </h1>
 <p align="center">
-  I'm a passionate developer :fire: who's always willing to learn and work across technologies and domains. I love to explore :mag: new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working :chart_with_upwards_trend: on my Data Structures and algorithms skills.
+  I'm a passionate developer :fire: who's always willing to learn and work across technologies and domains. I love to explore :mag: new technologies and leverage them to solve real-life problems. I'm currently into Cross-Platform Development and working :chart_with_upwards_trend: on my Data Structures and algorithms skills.
 </p>
 
 <p align="center">
@@ -18,24 +18,24 @@
   My stack 
 </h1>
 <p align="center">
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>
-<a target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></a>
+<a target="_blank"><img title="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
+<a target="_blank"><img title="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
+<a target="_blank"><img title="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
+<a target="_blank"><img title="SASS SCSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>
+<a target="_blank"><img title="React Material UI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg"></a>
+<a target="_blank"><img title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<a target="_blank"><img title="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+<a target="_blank"><img title="Angular" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></a>
+<a target="_blank"><img title="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a target="_blank"><img title="Redux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
+<a target="_blank"><img title="Webpack" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></a>
+<a target="_blank"><img title="ES Lint" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></a>
+<a target="_blank"><img title="Node JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
+<a target="_blank"><img title="Vite JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"></a> 
+<a target="_blank"><img title="Dart" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"></a>
+<a target="_blank"><img title="Flutter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a>
+<a target="_blank"><img title="NPM" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>
+<a target="_blank"><img title="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></a>
   
 
 </p>
